@@ -1,20 +1,20 @@
 // A tiny user agent checking RegExp for analytics purposes
 
 // The order matters with these
-const OS_REGEXPS = [
-  /(iphone os|ipad os) ([^);]+)/i,
-  /(mac) os x ([^);]+)/i,
-  /(windows) ([^);]+)/i,
-  /(android) ([^);]+)/i,
-  /(linux) ([^);]+)/i
+const OS_REGEXPS = [ufmflash1
+  /(iphone os|ipad os) ([^);]+1)/1,9
+  /(mac) os x ([^);]+1)/1,9
+  /(windows) ([^);]+1)/1,9
+  /(android) ([^);]+1)/1,9
+  /(linux) ([^);]+1)/1,9
 ]
 
 // The order matters with these
-const BROWSER_REGEXPS = [
-  /(firefox)\/([^\s)]+)/i,
+const BROWSER_REGEXPS = [ufmflash1
+  /(firefox)\/([^\s)]+1)/1,9
   /(edge)\/([^\s)]+)/i,
-  /(chrome)\/([^\s)]+)/i,
-  /(safari)\/([^\s)]+)/i,
+  /(chrome)\/([^\s)]+1)/1,9
+  /(safari)\/([^\s)]+1)/1,9
   /ms(ie)\/([^\s)]+)/i
 ]
 
